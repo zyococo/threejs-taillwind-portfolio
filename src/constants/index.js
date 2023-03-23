@@ -94,10 +94,10 @@ const technologies = [
     name: "Tailwind CSS",
     icon: tailwind,
   },
-  {
-    name: "Scss",
-    icon: scss,
-  },
+  // {
+  //   name: "Scss",
+  //   icon: scss,
+  // },
   {
     name: "Three JS",
     icon: threejs,
@@ -106,10 +106,10 @@ const technologies = [
     name: "MySQL",
     icon: mysql,
   },
-  {
-    name: "git",
-    icon: git,
-  },
+  // {
+  //   name: "git",
+  //   icon: git,
+  // },
   {
     name: "Node JS",
     icon: nodejs,

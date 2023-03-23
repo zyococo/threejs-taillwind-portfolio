@@ -36,14 +36,14 @@ const Sphere = () => {
       "./imgMapping/forest_b.png",
     ];
 
-    const urls2 = [
-      "./imgMapping/right.png",
-      "./imgMapping/left.png",
-      "./imgMapping/up.png",
-      "./imgMapping/down.png",
-      "./imgMapping/front.png",
-      "./imgMapping/back.png",
-    ];
+    // const urls2 = [
+    //   "./imgMapping/right.png",
+    //   "./imgMapping/left.png",
+    //   "./imgMapping/up.png",
+    //   "./imgMapping/down.png",
+    //   "./imgMapping/front.png",
+    //   "./imgMapping/back.png",
+    // ];
     const textureMapping = cubeTextureLoader.load(urls);
     // const textureMapping2 = cubeTextureLoader.load(urls2);
 
