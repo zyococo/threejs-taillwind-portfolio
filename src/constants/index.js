@@ -16,6 +16,7 @@ import {
   c,
   nodejs,
   git,
+  php,
   carrent,
   jobit,
   tripguide,
@@ -94,10 +95,10 @@ const technologies = [
     name: "Tailwind CSS",
     icon: tailwind,
   },
-  // {
-  //   name: "Scss",
-  //   icon: scss,
-  // },
+  {
+    name: "Scss",
+    icon: scss,
+  },
   {
     name: "Three JS",
     icon: threejs,
@@ -121,6 +122,10 @@ const technologies = [
   {
     name: "C#",
     icon: c,
+  },
+  {
+    name: "PHP",
+    icon: php,
   },
 ];
 

@@ -10,6 +10,7 @@ import close from "./close.svg";
 
 import css from "./tech/css.png";
 import java from "./tech/java.png";
+import php from "./tech/php.png";
 import c from "./tech/c.png";
 import scss from "./tech/scss.png";
 import git from "./tech/git.png";
@@ -48,6 +49,7 @@ export {
   html,
   javascript,
   java,
+  php,
   c,
   scss,
   mysql,
