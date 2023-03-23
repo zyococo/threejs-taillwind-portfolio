@@ -28,11 +28,6 @@ dist-ssr
 # vscode
 .vscode
 
-# 3Dオブジェクト
-.main
-.index.css
-
-.components.cancvas.Computers.jsx
 
 # # Images
 # *.jpg
