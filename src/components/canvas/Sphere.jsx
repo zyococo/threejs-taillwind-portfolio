@@ -4,6 +4,15 @@ import * as THREE from "three";
 const Sphere = () => {
   const canvasRef = useRef();
 
+  const urls = [
+    "./imgMapping/forest_r.png",
+    "./imgMapping/forest_l.png",
+    "./imgMapping/forest_u.png",
+    "./imgMapping/forest_d.png",
+    "./imgMapping/forest_f.png",
+    "./imgMapping/forest_b.png",
+  ];
+
   useEffect(() => {
     let count = -1;
     const scene = new THREE.Scene();
@@ -26,15 +35,6 @@ const Sphere = () => {
     scene.add(light);
 
     const cubeTextureLoader = new THREE.CubeTextureLoader();
-
-    const urls = [
-      "./imgMapping/forest_r.png",
-      "./imgMapping/forest_l.png",
-      "./imgMapping/forest_u.png",
-      "./imgMapping/forest_d.png",
-      "./imgMapping/forest_f.png",
-      "./imgMapping/forest_b.png",
-    ];
 
     // const urls2 = [
     //   "./imgMapping/right.png",
