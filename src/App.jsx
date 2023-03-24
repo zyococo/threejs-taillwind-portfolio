@@ -19,7 +19,7 @@ const App = () => {
           <Navbar />
           <SphereGeometry />
         </div>
-        {/* <Tech /> */}
+        <Tech />
         <About />
         <Experience />
 
