@@ -5,12 +5,12 @@ const Sphere = () => {
   const canvasRef = useRef();
 
   const urls = [
-    "./imgMapping/forest_r.png",
-    "./imgMapping/forest_l.png",
-    "./imgMapping/forest_u.png",
-    "./imgMapping/forest_d.png",
-    "./imgMapping/forest_f.png",
-    "./imgMapping/forest_b.png",
+    "./forest_r.png",
+    "./forest_l.png",
+    "./forest_u.png",
+    "./forest_d.png",
+    "./forest_f.png",
+    "./forest_b.png",
   ];
 
   useEffect(() => {
