@@ -19,15 +19,15 @@ const App = () => {
           <Navbar />
           <SphereGeometry />
         </div>
-        {/* <Tech /> */}
+        <Tech />
         <About />
         <Experience />
 
         <Works />
-        {/* <div className="relative z-0">
+        <div className="relative z-0">
           <Contact />
           <StarsCanvas />
-        </div> */}
+        </div>
       </div>
     </BrowserRouter>
   );

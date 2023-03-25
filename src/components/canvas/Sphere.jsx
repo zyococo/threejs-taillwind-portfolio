@@ -61,6 +61,8 @@ const Sphere = () => {
     const material = new THREE.MeshBasicMaterial({
       envMap: textureMapping,
       reflectivity: 1,
+      roughness: 0.1,
+      metalness: 1,
     });
 
     const sphere = new THREE.Mesh(geometry, material);

@@ -216,10 +216,10 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/zyococo/my-typescript-sns",
   },
   {
-    name: "Movie Search",
+    name: "Movie Review",
     description:
       "バックエンドにPHP, フロントエンドにjavascript(JQuery)を選択しMySQLにデータベースを用意し簡易的な映画レビューサイトを作成",
     tags: [
@@ -237,7 +237,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/zyococo/php-movies-review",
   },
   {
     name: "Word Collection",
@@ -258,7 +258,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/zyococo/word-collection",
   },
 ];
 
