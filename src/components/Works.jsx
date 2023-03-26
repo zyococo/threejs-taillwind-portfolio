@@ -15,6 +15,7 @@ const ProjectCard = ({
   tags,
   image,
   source_code_link,
+  web_link,
 }) => {
   return (
     <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
@@ -26,13 +27,17 @@ const ProjectCard = ({
         }}
         className="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full"
       >
-        <div className="relative w-full h-[230px]">
+        <div
+          onClick={() => window.open(web_link, "_blank")}
+          className="relative w-full h-[230px]"
+        >
           <img
             src={image}
             alt="project_image"
             className="w-full h-full object-cover rounded-2xl"
           />
 
+          {/* _blank : 新しいブラウザータブで開く */}
           <div className="absolute inset-0 flex justify-end m-3 card-img_hover">
             <div
               onClick={() => window.open(source_code_link, "_blank")}
@@ -72,7 +77,9 @@ const Works = () => {
     <>
       <motion.div variants={textVariant()}>
         <h2 className={`${styles.sectionHeadText}`}>ポートフォリオ</h2>
-        <p className={styles.sectionSubText}>Gitマーク押してね!</p>
+        <p className={styles.sectionSubText}>
+          ソースコードを見るならGitマーク押してね!
+        </p>
       </motion.div>
 
       <div className="mt-20 flex flex-wrap gap-7">

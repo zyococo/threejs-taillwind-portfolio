@@ -15,17 +15,16 @@ import {
   java,
   c,
   nodejs,
-  git,
   php,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
   hirano,
   gakusho,
   rugby,
   tafe,
   naocan,
+  discord,
+  javafx,
+  phpjquery,
 } from "../assets";
 
 export const navLinks = [
@@ -215,7 +214,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: discord,
+    web_link: "https://my-discord-f6afa.web.app/",
     source_code_link: "https://github.com/zyococo/my-typescript-sns",
   },
   {
@@ -236,7 +236,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
+    image: phpjquery,
     source_code_link: "https://github.com/zyococo/php-movies-review",
   },
   {
@@ -257,8 +257,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/zyococo/word-collection",
+    image: javafx,
+    source_code_link: "https://github.com/zyococo/javafx-words",
   },
 ];
 

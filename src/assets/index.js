@@ -13,7 +13,6 @@ import java from "./tech/java.png";
 import php from "./tech/php.png";
 import c from "./tech/c.png";
 import scss from "./tech/scss.png";
-import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mysql from "./tech/mysql.png";
@@ -30,9 +29,9 @@ import rugby from "./company/rugby.png";
 import tafe from "./company/tafe.png";
 import naocan from "./company/naocan.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import discord from "./discord.png";
+import javafx from "./javaFX.png";
+import phpjquery from "./php-jquery.png";
 
 export {
   forest,
@@ -45,7 +44,6 @@ export {
   menu,
   close,
   css,
-  git,
   html,
   javascript,
   java,
@@ -64,7 +62,7 @@ export {
   rugby,
   tafe,
   naocan,
-  carrent,
-  jobit,
-  tripguide,
+  discord,
+  javafx,
+  phpjquery,
 };
