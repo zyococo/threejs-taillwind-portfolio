@@ -167,7 +167,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "2021/1 - 2022/1",
     points: [
-      "Java,C#,PHPのバックエンド言語を学ぶ",
+      "Java,C#,PHPのバックエンド言語を学習する",
       "アジャイル開発でプロジェクトを進行する",
     ],
   },
