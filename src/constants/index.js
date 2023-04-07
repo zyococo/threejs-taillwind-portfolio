@@ -191,7 +191,7 @@ const experiences = [
     points: [
       "個人事業主なおかんの営業を行う",
       "寺,花屋に足を運びプロモーション活動する",
-      "TS(Next.js,React),Node.js独学中",
+      "TS(Next.js,React),Node.js独学中です",
     ],
   },
 ];
