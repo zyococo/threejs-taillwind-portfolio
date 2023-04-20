@@ -24,7 +24,7 @@ const SphereGeometry = () => {
             {/* 現在転職活動中！ <br className="sm:block hidden" /> */}
             大阪府在住、1995年生まれ
             <br className="sm:block hidden" />
-            座右の銘 : 弘法筆を選ばず
+            座右の銘 : 弘法筆を選ばず, Comfortable with being uncomfortable
           </p>
         </div>
       </div>
