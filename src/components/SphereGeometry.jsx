@@ -21,7 +21,7 @@ const SphereGeometry = () => {
           <p
             className={`${styles.heroSubText} mt-2 text-[#ffffff], font-black`}
           >
-            現在転職活動中！ <br className="sm:block hidden" />
+            {/* 現在転職活動中！ <br className="sm:block hidden" /> */}
             大阪府在住、1995年生まれ
             <br className="sm:block hidden" />
             座右の銘 : 弘法筆を選ばず
