@@ -187,12 +187,20 @@ const experiences = [
     company_name: "Preserved Flower",
     icon: naocan,
     iconBg: "#E6DEDD",
-    date: "2022/11 - 現在",
+    date: "2022/11 - 2023/3",
     points: [
       "個人事業主なおかんの営業を行う",
       "寺,花屋に足を運びプロモーション活動する",
       "TS(Next.js,React),Node.js独学中です",
     ],
+  },
+  {
+    title: "Kredo Japan",
+    company_name: "IT member",
+    icon: naocan,
+    iconBg: "#E6DEDD",
+    date: "2023/4 - 現在",
+    points: ["..."],
   },
 ];
 
