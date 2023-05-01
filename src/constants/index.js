@@ -200,7 +200,7 @@ const experiences = [
     icon: naocan,
     iconBg: "#E6DEDD",
     date: "2023/4 - 現在",
-    points: ["..."],
+    points: ["I have not updated yet"],
   },
 ];
 
