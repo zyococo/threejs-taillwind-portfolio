@@ -22,6 +22,7 @@ import {
   rugby,
   tafe,
   naocan,
+  kredo,
   discord,
   javafx,
   phpjquery,
@@ -197,7 +198,7 @@ const experiences = [
   {
     title: "Kredo Japan",
     company_name: "IT member",
-    icon: naocan,
+    icon: kredo,
     iconBg: "#E6DEDD",
     date: "2023/4 - 現在",
     points: ["I have not updated yet"],

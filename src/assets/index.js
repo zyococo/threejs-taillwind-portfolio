@@ -28,6 +28,7 @@ import gakusho from "./company/gakusho.png";
 import rugby from "./company/rugby.png";
 import tafe from "./company/tafe.png";
 import naocan from "./company/naocan.png";
+import kredo from "./company/kredo.png";
 
 import discord from "./discord.png";
 import javafx from "./javaFX.png";
@@ -62,6 +63,7 @@ export {
   rugby,
   tafe,
   naocan,
+  kredo,
   discord,
   javafx,
   phpjquery,
