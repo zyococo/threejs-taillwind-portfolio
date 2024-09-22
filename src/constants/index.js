@@ -197,7 +197,7 @@ const experiences = [
   },
   {
     title: "Kredo Japan",
-    company_name: "IT member",
+    company_name: "IT and ESL member",
     icon: kredo,
     iconBg: "#E6DEDD",
     date: "2023/4 - 現在",
