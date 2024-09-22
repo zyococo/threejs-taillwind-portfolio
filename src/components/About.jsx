@@ -45,7 +45,7 @@ const About = () => {
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className="mt-4 text-secondary text-[17px] max-w-[900px] leading-[30px]"
+        className="mt-4 text-secondary text-[17px] max-w-[1100px] leading-[30px]"
       >
         私は何事に対しても計画性、主体性をもち全力でタスクに向き合い、最後までやり切る力があります。
         <br />
@@ -56,7 +56,7 @@ const About = () => {
         <br />
         ・大学卒業後にバケットリストの1つでもあった英語圏の訓練学校受験に合格したこと。
         <br />
-        ・とある英語系ユーチューバーの数百人規模のイベントで開催されたコンペティションで個人で優勝したこと。
+        ・登録者数50万人を超える英語系ユーチューバーが開催した、数百人規模のイベントのコンペティションで個人優勝したこと。
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
