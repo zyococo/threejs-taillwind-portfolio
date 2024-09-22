@@ -45,7 +45,7 @@ const About = () => {
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
-        className="mt-4 text-secondary text-[17px] max-w-[825px] leading-[30px]"
+        className="mt-4 text-secondary text-[17px] max-w-[900px] leading-[30px]"
       >
         私は何事に対しても計画性、主体性をもち全力でタスクに向き合い、最後までやり切る力があります。
         <br />
