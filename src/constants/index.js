@@ -215,7 +215,7 @@ const projects = [
   {
     name: "Discord",
     description:
-      "アメリカ発のチャットサービス。Reactのフックスやカスタムフックス実装し、TypescriptやReduxを用いて一からDiscordクローンを作成",
+      "Reactのフックスやカスタムフックス実装し、TypescriptやReduxを用いて一からDiscordクローンを作成",
     tags: [
       {
         name: "Typescript",
