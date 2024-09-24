@@ -214,8 +214,10 @@ const experiences = [
 const projects = [
   {
     name: "Discord",
-    description:
-      "Reactのフックスやカスタムフックス実装し、TypescriptやReduxを用いて一からDiscordクローンを作成",
+    description: [
+      "ReactHooks /Custom Hooks実装",
+      "Typescript / Reduxを用いてDiscordクローンを作成",
+    ],
     tags: [
       {
         name: "Typescript",
