@@ -184,13 +184,13 @@ const experiences = [
     ],
   },
   {
-    title: "なおかん",
+    title: "naocan",
     company_name: "Preserved Flower",
     icon: naocan,
     iconBg: "#E6DEDD",
     date: "2022/11 - 2023/3",
     points: [
-      "個人事業主なおかんの営業を行う",
+      "個人事業主naocanの営業を行う",
       "寺,花屋に足を運びプロモーション活動",
       "TS(Next.js,React),Node.js独学",
     ],
