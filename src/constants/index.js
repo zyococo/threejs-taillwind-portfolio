@@ -238,8 +238,12 @@ const projects = [
   },
   {
     name: "Movie Review",
-    description:
-      "バックエンドにPHP, フロントエンドにjavascript(JQuery)を選択しMySQLにデータベースを用意し簡易的な映画レビューサイトを作成",
+    description: [
+      "バックエンドにPHP",
+      "フロントエンドにjavascript",
+      "MySQLにデータベース",
+      "簡易的な映画レビューサイトを作成",
+    ],
     tags: [
       {
         name: "PHP",
