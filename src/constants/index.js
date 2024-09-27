@@ -242,11 +242,11 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "MySQL",
+        name: "JQuery",
         color: "green-text-gradient",
       },
       {
-        name: "JQuery",
+        name: "MySQL",
         color: "pink-text-gradient",
       },
     ],
@@ -262,11 +262,11 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "MySQL",
+        name: "JavaFX",
         color: "green-text-gradient",
       },
       {
-        name: "JavaFX",
+        name: "MySQL",
         color: "pink-text-gradient",
       },
     ],
