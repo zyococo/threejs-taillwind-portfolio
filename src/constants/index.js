@@ -214,7 +214,7 @@ const experiences = [
 const projects = [
   {
     name: "Discord",
-    description: "React HooksとTypeScript/ReduxでDiscordクローン作成",
+    description: "Discordクローン作成",
     tags: [
       {
         name: "Typescript",
@@ -235,12 +235,7 @@ const projects = [
   },
   {
     name: "Movie Review",
-    description: [
-      "バックエンドにPHP",
-      "フロントエンドにjavascript",
-      "MySQLにデータベース",
-      "簡易的な映画レビューサイトを作成",
-    ],
+    description: "映画/作品レビューサイト作成",
     tags: [
       {
         name: "PHP",
@@ -260,8 +255,7 @@ const projects = [
   },
   {
     name: "Word Collection",
-    description:
-      "バックエンドにJava、またGUIライブラリであるJavaFXを選択しMySQLにデータベースを用意し単語帳リストを作成",
+    description: "オリジナル単語帳リスト作成",
     tags: [
       {
         name: "Java",
