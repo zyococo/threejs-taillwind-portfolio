@@ -61,7 +61,7 @@ const services = [
     icon: secretary,
   },
   {
-    title: "ベンチプレス100kg",
+    title: "ベンチプレス110kg",
     icon: benchpress,
   },
 ];
