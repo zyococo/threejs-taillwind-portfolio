@@ -96,7 +96,7 @@ const technologies = [
     icon: tailwind,
   },
   {
-    name: "Scss",
+    name: "SCSS",
     icon: scss,
   },
   {
