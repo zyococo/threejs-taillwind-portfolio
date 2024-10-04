@@ -30,19 +30,19 @@ import {
 
 export const navLinks = [
   {
-    id: "about",
+    id: "About",
     title: "強み",
   },
   {
-    id: "experience",
+    id: "Experience",
     title: "経歴",
   },
   {
-    id: "work",
+    id: "Work",
     title: "作品",
   },
   {
-    id: "contact",
+    id: "Contact",
     title: "連絡",
   },
 ];
