@@ -49,7 +49,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "TOEIC 900点",
+    title: "TOEIC900点",
     icon: toeic,
   },
   {
