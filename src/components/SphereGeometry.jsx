@@ -23,7 +23,7 @@ const SphereGeometry = () => {
             className={`${styles.heroSubText} mt-2 text-[#ffffff], font-black`}
           >
             {/* 現在転職活動中！ <br className="sm:block hidden" /> */}
-            Japanese 29-year-old male from Osaka, Japan
+            Japanese 30-year-old male from Osaka, Japan
             <br className="sm:block hidden" />
             Step out of your comfort zone!!
           </p>
