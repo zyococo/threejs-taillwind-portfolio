@@ -53,7 +53,7 @@ const services = [
     icon: toeic,
   },
   {
-    title: "IELTS overall 8.0",
+    title: "IELTS overall8.0",
     icon: ielts,
   },
   {
