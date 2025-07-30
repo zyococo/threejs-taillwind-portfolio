@@ -1,5 +1,5 @@
 import React from "react";
-import Tilt from "react-tilt";
+import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
 
 import { styles } from "../styles";
@@ -37,7 +37,6 @@ const ProjectCard = ({
             className="w-full h-full object-cover rounded-2xl"
           />
 
-          {/* _blank : 新しいブラウザータブで開く */}
           <div className="absolute inset-0 flex justify-end m-3 card-img_hover">
             <div
               onClick={() => window.open(source_code_link, "_blank")}
